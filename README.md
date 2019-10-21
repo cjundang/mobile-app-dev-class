@@ -27,6 +27,13 @@ Introduction to mobile programming; software development tools; mobile programmi
 - Week 10 - 11 : Connect to Internet 
 
 **Extra 12 Hr**
-- 4 Hr : Java Programming for Android Developer 
+- 4 Hr : Java Programming for Android Programmer
 - 8 Hr : React Native Mobile Application
 
+## Workshop 1 : Java Programming for Android Programmer
+
+**Outlines**
+- Install Java compiler and tools
+- Compile and Execure Java Class file 
+- Basic instructions: data type, condition, loop, function
+- OOP concept: Class and Object, Encapsulation, Inheritance, Polymophism
