@@ -19,8 +19,7 @@ Introduction to mobile programming; software development tools; mobile programmi
 
 **Outlines**
 - Week 01 : Introduction to mobile programming
-- Week 02 : Install Android Studio and Hello World Program
-- Week 03 - 04 : Single User Interface Application
+- Week 02 - 04 : Install Android Studio and Hello World Program, Single User Interface Application
 - Week 05  : Multi User Interface Application
 - Week 06 : Advance User Interface Application
 - Week 07 : Data Storage
