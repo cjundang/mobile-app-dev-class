@@ -36,4 +36,14 @@ Introduction to mobile programming; software development tools; mobile programmi
 - Install Java compiler and tools
 - Compile and Execure Java Class file 
 - Basic instructions: data type, condition, loop, function
-- OOP concept: Class and Object, Encapsulation, Inheritance, Polymophism
+- OOP concept: Class and Object, Encapsulation, Inheritance, Polymorphism
+
+### Installation
+### Compile and Execute
+```
+public static void main(String []args){
+    System.out.println("Hello");
+}
+```
+### Basic Instruction
+### OOP
