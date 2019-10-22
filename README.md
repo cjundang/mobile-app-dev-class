@@ -1,6 +1,9 @@
 # Mobile Application Development
 Chanankorn Jandaeng, Ph.D., School of Informativcs, WU, Thailand.
 
+<img src="me.png" alt="drawing" width="100"/>
+
+
 **Course Description**
 
 Introduction to mobile programming; software development tools; mobile programming language; construct and design user interface; create different types of graphic image; create and store data; mobile application development; software distribution channels.
@@ -39,6 +42,7 @@ Introduction to mobile programming; software development tools; mobile programmi
 - OOP concept: Class and Object, Encapsulation, Inheritance, Polymorphism
 
 ### Installation
+
 ### Compile and Execute
 ```
 public static void main(String []args){
