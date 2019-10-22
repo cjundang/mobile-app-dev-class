@@ -1,5 +1,4 @@
 # Mobile Application Development
-Chanankorn Jandaeng, Ph.D., School of Informativcs, WU, Thailand.
 
 <img src="me.png" alt="drawing" width="200"/>
 
