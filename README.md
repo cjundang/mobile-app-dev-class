@@ -41,21 +41,28 @@ Introduction to mobile programming; software development tools; mobile programmi
 - OOP concept: Class and Object, Encapsulation, Inheritance, Polymorphism
 
 ### Installation
-- download and install javase
-```
-https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html
-```
-- set java_home path
-```
-https://javatutorial.net/set-java-home-windows-10
-```
+- download and install JavaSe https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html
+- Set JAVA_HOME path details in https://javatutorial.net/set-java-home-windows-10
+
 ### Compile and Execute
+- create file named Main.java
 ```
-public static void main(String []args){
-    System.out.println("Hello");
+class Main{
+    public static void main(String []args){
+        System.out.println("Hello");
+    }
 }
 ```
+- compile 
+```
+> javac Main.java
+```
+- run
+```
+> java Main
+```
 ### Basic Instruction
+
 ### OOP
 
 
