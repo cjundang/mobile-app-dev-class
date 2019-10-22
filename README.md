@@ -41,7 +41,14 @@ Introduction to mobile programming; software development tools; mobile programmi
 - OOP concept: Class and Object, Encapsulation, Inheritance, Polymorphism
 
 ### Installation
-
+- download and install javase
+```
+https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html
+```
+- set java_home path
+```
+https://javatutorial.net/set-java-home-windows-10
+```
 ### Compile and Execute
 ```
 public static void main(String []args){
@@ -50,3 +57,8 @@ public static void main(String []args){
 ```
 ### Basic Instruction
 ### OOP
+
+
+
+### install adroid studio
+https://developer.android.com/studio
