@@ -125,6 +125,11 @@ class Start{
         }
         for(int i=0; i < n;i++)
             System.out.println(a[i]);
+        
+        double max = Double.NEGATIVE_INFINITY;
+        for(int i=0; i < n;i++)
+            if(a[i] > max) max = a[i];
+        System.out.println("max = " + max);
     }
 }
 ```
