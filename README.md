@@ -111,19 +111,21 @@ class Start{
 ```  
 - Learning how to use array and its iterative function 
 ```
+
+import java.util.Random;
 class Start{
     public static void main(String []args){
         int n = 10;
+        int seed = 1;
+        Random generator = new Random(seed);
         double []a = new double[n];
-        for(int i=0; i < n;i++)
-            a[i] = Math.random();
-        
+        for(int i=0; i < n;i++){
+            //a[i] = Math.random();
+            a[i] = generator.nextDouble();
+        }
         for(int i=0; i < n;i++)
             System.out.println(a[i]);
-        
-        
     }
-
 }
 ```
 - Function in Java
