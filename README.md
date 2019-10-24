@@ -62,9 +62,9 @@ class Main{
 > java Main
 ```
 ### Basic Instruction
-- Create new file named Main.java, compile and execute.
+- Create new file named Start.java, compile and execute.
 ```
-class Main{
+class Start{
     public static void main(String []args){
         System.out.println("Hello");
     }
