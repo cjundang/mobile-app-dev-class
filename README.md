@@ -99,6 +99,18 @@ class Start{
 ```
 class Start{
     public static void main(String []args){
+        int sum = 0;
+        for(int i=1; i <50; i++){
+            if(i % 2 == 0)
+                sum += i;
+        }        
+        System.out.println("="+sum);
+    }
+}
+```
+```
+class Start{
+    public static void main(String []args){
         System.out.println( 11 * 0.25);
         System.out.println( (int)11 * 0.25);
         System.out.println( 11 * (int)(0.25 + 0.5) );
@@ -125,7 +137,6 @@ class Start{
         }
         for(int i=0; i < n;i++)
             System.out.println(a[i]);
-        
         double max = Double.NEGATIVE_INFINITY;
         for(int i=0; i < n;i++)
             if(a[i] > max) max = a[i];
