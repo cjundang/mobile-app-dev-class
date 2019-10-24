@@ -62,8 +62,25 @@ class Main{
 > java Main
 ```
 ### Basic Instruction
+- Create new file named Main.java, compile and execute.
+```
+class Main{
+    public static void main(String []args){
+        System.out.println("Hello");
+    }
+}
+```
+- Test the command in cheat sheet page 1 in topics of ata type and conversion, loop, condition
+- Learning how to use array and its iterative function 
+- Function in Java
+- String and its function
 
 ### OOP
+- Class and Object
+- Encapsulation
+- Constructor
+- Inheritance & Interface
+- Overloading & Overriding method
 
 
 
