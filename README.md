@@ -86,7 +86,7 @@ class Start{
 
 }
 ```
-    - Mathematics libary
+    - Mathematics libary: more detail google with Math Class Java example
 ```
 class Start{
     public static void main(String []args){
@@ -95,8 +95,37 @@ class Start{
     }
 
 }
-```    
+```  
+```
+class Start{
+    public static void main(String []args){
+        System.out.println( 11 * 0.25);
+        System.out.println( (int)11 * 0.25);
+        System.out.println( 11 * (int)(0.25 + 0.5) );
+        System.out.println( (int)(0.25 + 0.5) );
+        System.out.println( (int)(0.65 + 0.5) );
+        System.out.println( (int)(11 * 0.25));
+    }
+
+}
+```  
 - Learning how to use array and its iterative function 
+```
+class Start{
+    public static void main(String []args){
+        int n = 10;
+        double []a = new double[n];
+        for(int i=0; i < n;i++)
+            a[i] = Math.random();
+        
+        for(int i=0; i < n;i++)
+            System.out.println(a[i]);
+        
+        
+    }
+
+}
+```
 - Function in Java
 - String and its function
 
