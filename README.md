@@ -71,6 +71,31 @@ class Start{
 }
 ```
 - Test the command in cheat sheet page 1 in topics of ata type and conversion, loop, condition
+    - Variable
+```
+class Start{
+    public static void main(String []args){
+        int a = 10;
+        double b = 10.0;
+        char c = 'c';
+        boolean d = true;
+        String e = "Name";
+
+        System.out.println("Hello " + a + " " + b + " " + c + " " + d + " " + e);
+    }
+
+}
+```
+    - Mathematics libary
+```
+class Start{
+    public static void main(String []args){
+        double result = Math.sqrt(3);
+        System.out.println("="+result);
+    }
+
+}
+```    
 - Learning how to use array and its iterative function 
 - Function in Java
 - String and its function
