@@ -9,6 +9,7 @@ public class Person{
         public Person(){}
     */
     // constuctor
+    public Person(){};
     public Person(String fname, String lname, int age){
             setFname(fname);
             setLname(lname);

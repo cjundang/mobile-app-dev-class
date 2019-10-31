@@ -8,6 +8,8 @@ public class Start{
         System.out.println(p1.toString());
         System.out.println(p2.toString());
         System.out.println(p3.toString());
-        //System.out.println(p3.age);
+        
+        Student s1 = new Student("A", "B", 30, "11111", 3.45);
+        System.out.println(s1.toString());
     }
 }
