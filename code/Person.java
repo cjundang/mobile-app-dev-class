@@ -34,7 +34,7 @@ public class Person{
             this.age = 0;
     }
 
-    public int getAge(){ // read permission
+    public int gelstAge(){ // read permission
         return this.age;
     }
 
@@ -42,7 +42,7 @@ public class Person{
         this.fname = fname;
     }
 
-    public int getFname(){ // read permission
+    public String getFname(){ // read permission
         return this.fname;
     }
 
@@ -50,7 +50,7 @@ public class Person{
         this.lname = lname;
     }
 
-    public int getLname(){ // read permission
+    public String getLname(){ // read permission
         return this.lname;
     }
 }
