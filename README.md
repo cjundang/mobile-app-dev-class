@@ -166,6 +166,38 @@ class Fibo{
 
 ### OOP
 - Class and Object
+   - Class is blueprint = propoties + method
+   - Class is none-function
+   - Create Object from class
+```
+public class Start{
+    public static void main(String [] args){
+        Person p1 = new Person();  // create object from class
+        p1.fname = "Chanankorn";
+        p1.lname = "Jandaeng";
+        p1.age = 35;
+
+        p1.showData();
+    }
+}
+```  
+```
+public class Person{
+    // property
+    String fname;
+    String lname;
+    int age;
+    // method
+
+    public void showData(){
+        System.out.println("> " + this.fname);
+        System.out.println("> " + this.lname);
+        System.out.println("> " + this.age);
+    }
+}
+``` 
+
+
 - Encapsulation
 - Constructor
 - Inheritance & Interface
