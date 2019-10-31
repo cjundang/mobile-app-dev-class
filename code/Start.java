@@ -11,5 +11,13 @@ public class Start{
         
         Student s1 = new Student("A", "B", 30, "11111", 3.45);
         System.out.println(s1.toString());
+        Spiderman sp1 = new Spiderman();
+        sp1.say();
+        sp1.move();
+        sp1.setFname("Peter");
+        sp1.setLname("Parker");
+        sp1.setAge(16);
+        System.out.println(sp1.toString());
     }
+
 }

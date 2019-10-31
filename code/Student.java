@@ -1,7 +1,7 @@
 class Student extends Person{
     private String id;
     private double gpax;
-
+    public Student(){};
     public Student(String fname, String lname, int age, String id, double gpax){
         super(fname, lname, age);
         this.id = id;
